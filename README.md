@@ -141,6 +141,7 @@ No libraries, just the math. Every entropy and information gain calculation, ste
 python3 -m venv .venv
 source .venv/bin/activate
 pip install scikit-learn matplotlib
+python train_decision_tree.py    # train, tune, and plot the trees
 python docs/make_figures.py      # regenerates every image in this README
 ```
 
