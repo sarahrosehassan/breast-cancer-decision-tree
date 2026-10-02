@@ -1,0 +1,7 @@
+# Environment
+.venv/
+__pycache__/
+.DS_Store
+
+# Course handouts belong to the instructor; don't publish them
+*.pdf
